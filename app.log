@@ -1,0 +1,5 @@
+2026-07-14 11:21:26,123 - DEBUG - Some debugging information
+2026-07-14 11:21:26,123 - INFO - App started
+2026-07-14 11:21:26,123 - WARNING - Disk space is low
+2026-07-14 11:21:26,123 - ERROR - File could not be opened
+2026-07-14 11:21:26,123 - CRITICAL - The service is unavailable
